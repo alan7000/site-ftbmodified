@@ -49,6 +49,12 @@ nav
     font-size: 20px;
 }
 
+.inframe
+{
+    display: block;
+    margin: 0 auto;
+}
+
 .mfooter
 {
     font-size: 25px;
