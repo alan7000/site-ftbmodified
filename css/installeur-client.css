@@ -1,0 +1,67 @@
+nav
+{
+    background-color: #345B8F;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: "Verdana", sans-serif;
+
+}
+.pré1
+{
+    margin: 70px;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: "Verdana", sans-serif;
+}
+.text1
+{
+    text-align: center;
+    font-size: 20px;
+    position: inherit;
+    font-family: "Verdana", sans-serif;
+}
+.img
+{
+    display: block;
+    margin: 0 auto;
+}
+.suivant
+{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    font-family: "Verdana", sans-serif;
+
+}
+.mfooter
+{
+    font-size: 25px;
+}
+
+
+
+
+
+
+footer
+{
+    background-color: #648BBD;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 65px;
+    margin-bottom: auto;
+}
+.footer1
+{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    font-family: "Verdana", sans-serif;
+
+}

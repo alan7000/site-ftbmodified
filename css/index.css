@@ -1,0 +1,67 @@
+nav
+{
+    background-color: #345B8F;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: "Verdana", sans-serif;
+}
+
+.titre
+  {
+    margin: 70px;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Verdana", sans-serif;
+  }
+
+.textpre
+{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+}
+
+.text2
+{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+}
+
+.banniere
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.social
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    text-align: center;
+}
+
+footer
+{
+    background-color: #648BBD;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 65px;
+}
+.footer1
+{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: "Verdana", sans-serif;
+}
+
