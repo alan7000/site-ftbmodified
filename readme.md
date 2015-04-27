@@ -3,8 +3,9 @@
 
 ---
 
-Le site utilise le language:
+Le site utilise les languages:
 
 * HTML/CSS
+* Javascript
 
 Vous pouvez accedez au site, **[ici](http://fr.ftbmodified.ovh)**.
