@@ -29,6 +29,6 @@ $header = ("<nav>
         </div>
     </nav>");
 
-$footer = ("<p class=\"footer1\">Tous droits réservés &copy; 2014-2016</p>")
+$footer = ("<p class=\"footer1\">Tous droits réservés &copy; 2014-2017</p>")
 
 ?>
